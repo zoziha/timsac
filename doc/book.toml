@@ -1,0 +1,10 @@
+[book]
+authors = ["timsac contributors"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "TIMSAC API Documents"
+
+[output.html]
+git-repository-url = "https://github.com/zoziha/timsac/tree/main/"
+edit-url-template = "https://github.com/zoziha/timsac/edit/main/doc/{path}"
