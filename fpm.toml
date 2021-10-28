@@ -1,0 +1,5 @@
+name = "timsac"
+version = "1.3.6"
+author = "The Institute of Statistical Mathematics"
+maintainer = "timsac contributors"
+license = "GPL(>=2)"
